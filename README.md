@@ -10,4 +10,4 @@ To use this contact form section in your webpage: copy the html form into your f
       value="access key"
     />
     
-##then you'll Receive your html contact form submissions directly in your email inbox using the contact form api service without any server or backend code.
+**then you'll Receive your html contact form submissions directly in your email inbox using the contact form api service without any server or backend code.**
